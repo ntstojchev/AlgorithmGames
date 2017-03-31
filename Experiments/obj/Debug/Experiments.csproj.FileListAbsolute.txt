@@ -1,0 +1,29 @@
+c:\users\hrisis\documents\visual studio 2012\Projects\AlgorithmGames\Experiments\bin\Debug\Experiments.exe
+c:\users\hrisis\documents\visual studio 2012\Projects\AlgorithmGames\Experiments\bin\Debug\Experiments.pdb
+c:\users\hrisis\documents\visual studio 2012\Projects\AlgorithmGames\Experiments\obj\Debug\Experiments.csprojResolveAssemblyReference.cache
+c:\users\hrisis\documents\visual studio 2012\Projects\AlgorithmGames\Experiments\obj\Debug\Experiments.Properties.Resources.resources
+c:\users\hrisis\documents\visual studio 2012\Projects\AlgorithmGames\Experiments\obj\Debug\Experiments.csproj.GenerateResource.Cache
+c:\users\hrisis\documents\visual studio 2012\Projects\AlgorithmGames\Experiments\obj\Debug\Experiments.exe
+c:\users\hrisis\documents\visual studio 2012\Projects\AlgorithmGames\Experiments\obj\Debug\Experiments.pdb
+C:\Users\hrisis\Documents\Visual Studio 2012\Projects\AlgorithmGames\Experiments\obj\Debug\Experiments.Experiment.resources
+C:\Users\hrisis\Documents\Visual Studio 2012\Projects\AlgorithmGames\Experiments\obj\Debug\Experiments.PickProblem.resources
+C:\Users\hrisis\Documents\Лекции\4 Курс\8 семестър\ПРООС\Project\new\AlgorithmGames\Experiments\bin\Debug\Experiments.exe
+C:\Users\hrisis\Documents\Лекции\4 Курс\8 семестър\ПРООС\Project\new\AlgorithmGames\Experiments\bin\Debug\Experiments.pdb
+C:\Users\hrisis\Documents\Лекции\4 Курс\8 семестър\ПРООС\Project\new\AlgorithmGames\Experiments\obj\Debug\Experiments.csprojResolveAssemblyReference.cache
+C:\Users\hrisis\Documents\Лекции\4 Курс\8 семестър\ПРООС\Project\new\AlgorithmGames\Experiments\obj\Debug\Experiments.AddToGroup.resources
+C:\Users\hrisis\Documents\Лекции\4 Курс\8 семестър\ПРООС\Project\new\AlgorithmGames\Experiments\obj\Debug\Experiments.ExperimentForm.resources
+C:\Users\hrisis\Documents\Лекции\4 Курс\8 семестър\ПРООС\Project\new\AlgorithmGames\Experiments\obj\Debug\Experiments.PickProblem.resources
+C:\Users\hrisis\Documents\Лекции\4 Курс\8 семестър\ПРООС\Project\new\AlgorithmGames\Experiments\obj\Debug\Experiments.Properties.Resources.resources
+C:\Users\hrisis\Documents\Лекции\4 Курс\8 семестър\ПРООС\Project\new\AlgorithmGames\Experiments\obj\Debug\Experiments.csproj.GenerateResource.Cache
+C:\Users\hrisis\Documents\Лекции\4 Курс\8 семестър\ПРООС\Project\new\AlgorithmGames\Experiments\obj\Debug\Experiments.exe
+C:\Users\hrisis\Documents\Лекции\4 Курс\8 семестър\ПРООС\Project\new\AlgorithmGames\Experiments\obj\Debug\Experiments.pdb
+E:\My Projects\C#\AlgorithmGames\Experiments\bin\Debug\Experiments.exe
+E:\My Projects\C#\AlgorithmGames\Experiments\bin\Debug\Experiments.pdb
+E:\My Projects\C#\AlgorithmGames\Experiments\obj\Debug\Experiments.AddToGroup.resources
+E:\My Projects\C#\AlgorithmGames\Experiments\obj\Debug\Experiments.ExperimentForm.resources
+E:\My Projects\C#\AlgorithmGames\Experiments\obj\Debug\Experiments.PickProblem.resources
+E:\My Projects\C#\AlgorithmGames\Experiments\obj\Debug\Experiments.Properties.Resources.resources
+E:\My Projects\C#\AlgorithmGames\Experiments\obj\Debug\Experiments.csproj.GenerateResource.Cache
+E:\My Projects\C#\AlgorithmGames\Experiments\obj\Debug\Experiments.exe
+E:\My Projects\C#\AlgorithmGames\Experiments\obj\Debug\Experiments.pdb
+E:\My Projects\C#\AlgorithmGames\Experiments\obj\Debug\Experiments.csprojResolveAssemblyReference.cache

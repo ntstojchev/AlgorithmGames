@@ -1,0 +1,8 @@
+E:\My Projects\C#\AlgorithmGames\CreateMapTool\bin\Release\CreateMapTool.exe
+E:\My Projects\C#\AlgorithmGames\CreateMapTool\bin\Release\CreateMapTool.pdb
+E:\My Projects\C#\AlgorithmGames\CreateMapTool\obj\Release\CreateMapTool.csprojResolveAssemblyReference.cache
+E:\My Projects\C#\AlgorithmGames\CreateMapTool\obj\Release\CreateMapTool.CreateMap.resources
+E:\My Projects\C#\AlgorithmGames\CreateMapTool\obj\Release\CreateMapTool.Properties.Resources.resources
+E:\My Projects\C#\AlgorithmGames\CreateMapTool\obj\Release\CreateMapTool.csproj.GenerateResource.Cache
+E:\My Projects\C#\AlgorithmGames\CreateMapTool\obj\Release\CreateMapTool.exe
+E:\My Projects\C#\AlgorithmGames\CreateMapTool\obj\Release\CreateMapTool.pdb

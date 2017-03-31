@@ -1,0 +1,10 @@
+E:\My Projects\C#\AlgorithmGames\Experiments\bin\Release\Experiments.exe
+E:\My Projects\C#\AlgorithmGames\Experiments\bin\Release\Experiments.pdb
+E:\My Projects\C#\AlgorithmGames\Experiments\obj\Release\Experiments.AddToGroup.resources
+E:\My Projects\C#\AlgorithmGames\Experiments\obj\Release\Experiments.ExperimentForm.resources
+E:\My Projects\C#\AlgorithmGames\Experiments\obj\Release\Experiments.PickProblem.resources
+E:\My Projects\C#\AlgorithmGames\Experiments\obj\Release\Experiments.Properties.Resources.resources
+E:\My Projects\C#\AlgorithmGames\Experiments\obj\Release\Experiments.csproj.GenerateResource.Cache
+E:\My Projects\C#\AlgorithmGames\Experiments\obj\Release\Experiments.exe
+E:\My Projects\C#\AlgorithmGames\Experiments\obj\Release\Experiments.pdb
+E:\My Projects\C#\AlgorithmGames\Experiments\obj\Release\Experiments.csprojResolveAssemblyReference.cache

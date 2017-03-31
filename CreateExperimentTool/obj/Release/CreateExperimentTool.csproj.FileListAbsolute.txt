@@ -1,0 +1,10 @@
+E:\My Projects\C#\AlgorithmGames\CreateExperimentTool\bin\Release\CreateExperimentTool.exe
+E:\My Projects\C#\AlgorithmGames\CreateExperimentTool\bin\Release\CreateExperimentTool.pdb
+E:\My Projects\C#\AlgorithmGames\CreateExperimentTool\bin\Release\Experiments.exe
+E:\My Projects\C#\AlgorithmGames\CreateExperimentTool\bin\Release\Experiments.pdb
+E:\My Projects\C#\AlgorithmGames\CreateExperimentTool\obj\Release\CreateExperimentTool.csprojResolveAssemblyReference.cache
+E:\My Projects\C#\AlgorithmGames\CreateExperimentTool\obj\Release\CreateExperimentTool.CreateExperiment.resources
+E:\My Projects\C#\AlgorithmGames\CreateExperimentTool\obj\Release\CreateExperimentTool.Properties.Resources.resources
+E:\My Projects\C#\AlgorithmGames\CreateExperimentTool\obj\Release\CreateExperimentTool.csproj.GenerateResource.Cache
+E:\My Projects\C#\AlgorithmGames\CreateExperimentTool\obj\Release\CreateExperimentTool.exe
+E:\My Projects\C#\AlgorithmGames\CreateExperimentTool\obj\Release\CreateExperimentTool.pdb

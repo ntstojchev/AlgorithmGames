@@ -1,0 +1,30 @@
+c:\users\hrisis\documents\visual studio 2012\Projects\AlgorithmGames\CreateExperimentTool\bin\Debug\CreateExperimentTool.exe
+c:\users\hrisis\documents\visual studio 2012\Projects\AlgorithmGames\CreateExperimentTool\bin\Debug\CreateExperimentTool.pdb
+c:\users\hrisis\documents\visual studio 2012\Projects\AlgorithmGames\CreateExperimentTool\obj\Debug\CreateExperimentTool.csprojResolveAssemblyReference.cache
+c:\users\hrisis\documents\visual studio 2012\Projects\AlgorithmGames\CreateExperimentTool\obj\Debug\CreateExperimentTool.Properties.Resources.resources
+c:\users\hrisis\documents\visual studio 2012\Projects\AlgorithmGames\CreateExperimentTool\obj\Debug\CreateExperimentTool.csproj.GenerateResource.Cache
+c:\users\hrisis\documents\visual studio 2012\Projects\AlgorithmGames\CreateExperimentTool\obj\Debug\CreateExperimentTool.exe
+c:\users\hrisis\documents\visual studio 2012\Projects\AlgorithmGames\CreateExperimentTool\obj\Debug\CreateExperimentTool.pdb
+c:\users\hrisis\documents\visual studio 2012\Projects\AlgorithmGames\CreateExperimentTool\obj\Debug\CreateExperimentTool.CreateExperiment.resources
+C:\Users\hrisis\Documents\Visual Studio 2012\Projects\AlgorithmGames\CreateExperimentTool\bin\Debug\Experiments.exe
+C:\Users\hrisis\Documents\Visual Studio 2012\Projects\AlgorithmGames\CreateExperimentTool\bin\Debug\Experiments.pdb
+C:\Users\hrisis\Documents\Лекции\4 Курс\8 семестър\ПРООС\Project\new\AlgorithmGames\CreateExperimentTool\bin\Debug\CreateExperimentTool.exe
+C:\Users\hrisis\Documents\Лекции\4 Курс\8 семестър\ПРООС\Project\new\AlgorithmGames\CreateExperimentTool\bin\Debug\CreateExperimentTool.pdb
+C:\Users\hrisis\Documents\Лекции\4 Курс\8 семестър\ПРООС\Project\new\AlgorithmGames\CreateExperimentTool\bin\Debug\Experiments.exe
+C:\Users\hrisis\Documents\Лекции\4 Курс\8 семестър\ПРООС\Project\new\AlgorithmGames\CreateExperimentTool\bin\Debug\Experiments.pdb
+C:\Users\hrisis\Documents\Лекции\4 Курс\8 семестър\ПРООС\Project\new\AlgorithmGames\CreateExperimentTool\obj\Debug\CreateExperimentTool.csprojResolveAssemblyReference.cache
+C:\Users\hrisis\Documents\Лекции\4 Курс\8 семестър\ПРООС\Project\new\AlgorithmGames\CreateExperimentTool\obj\Debug\CreateExperimentTool.CreateExperiment.resources
+C:\Users\hrisis\Documents\Лекции\4 Курс\8 семестър\ПРООС\Project\new\AlgorithmGames\CreateExperimentTool\obj\Debug\CreateExperimentTool.Properties.Resources.resources
+C:\Users\hrisis\Documents\Лекции\4 Курс\8 семестър\ПРООС\Project\new\AlgorithmGames\CreateExperimentTool\obj\Debug\CreateExperimentTool.csproj.GenerateResource.Cache
+C:\Users\hrisis\Documents\Лекции\4 Курс\8 семестър\ПРООС\Project\new\AlgorithmGames\CreateExperimentTool\obj\Debug\CreateExperimentTool.exe
+C:\Users\hrisis\Documents\Лекции\4 Курс\8 семестър\ПРООС\Project\new\AlgorithmGames\CreateExperimentTool\obj\Debug\CreateExperimentTool.pdb
+E:\My Projects\C#\AlgorithmGames\CreateExperimentTool\bin\Debug\CreateExperimentTool.exe
+E:\My Projects\C#\AlgorithmGames\CreateExperimentTool\bin\Debug\CreateExperimentTool.pdb
+E:\My Projects\C#\AlgorithmGames\CreateExperimentTool\bin\Debug\Experiments.exe
+E:\My Projects\C#\AlgorithmGames\CreateExperimentTool\bin\Debug\Experiments.pdb
+E:\My Projects\C#\AlgorithmGames\CreateExperimentTool\obj\Debug\CreateExperimentTool.csprojResolveAssemblyReference.cache
+E:\My Projects\C#\AlgorithmGames\CreateExperimentTool\obj\Debug\CreateExperimentTool.CreateExperiment.resources
+E:\My Projects\C#\AlgorithmGames\CreateExperimentTool\obj\Debug\CreateExperimentTool.Properties.Resources.resources
+E:\My Projects\C#\AlgorithmGames\CreateExperimentTool\obj\Debug\CreateExperimentTool.csproj.GenerateResource.Cache
+E:\My Projects\C#\AlgorithmGames\CreateExperimentTool\obj\Debug\CreateExperimentTool.exe
+E:\My Projects\C#\AlgorithmGames\CreateExperimentTool\obj\Debug\CreateExperimentTool.pdb

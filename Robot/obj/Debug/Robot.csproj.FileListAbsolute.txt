@@ -1,0 +1,24 @@
+C:\Users\hrisis\Documents\Лекции\4 Курс\8 семестър\ПРООС\Project\new\AlgorithmGames\Robot\bin\Debug\Robot.exe
+C:\Users\hrisis\Documents\Лекции\4 Курс\8 семестър\ПРООС\Project\new\AlgorithmGames\Robot\bin\Debug\Robot.pdb
+C:\Users\hrisis\Documents\Лекции\4 Курс\8 семестър\ПРООС\Project\new\AlgorithmGames\Robot\bin\Debug\CreateMapTool.exe
+C:\Users\hrisis\Documents\Лекции\4 Курс\8 семестър\ПРООС\Project\new\AlgorithmGames\Robot\bin\Debug\Experiments.exe
+C:\Users\hrisis\Documents\Лекции\4 Курс\8 семестър\ПРООС\Project\new\AlgorithmGames\Robot\bin\Debug\CreateMapTool.pdb
+C:\Users\hrisis\Documents\Лекции\4 Курс\8 семестър\ПРООС\Project\new\AlgorithmGames\Robot\bin\Debug\Experiments.pdb
+C:\Users\hrisis\Documents\Лекции\4 Курс\8 семестър\ПРООС\Project\new\AlgorithmGames\Robot\obj\Debug\Robot.csprojResolveAssemblyReference.cache
+C:\Users\hrisis\Documents\Лекции\4 Курс\8 семестър\ПРООС\Project\new\AlgorithmGames\Robot\obj\Debug\Robot.PickMap.resources
+C:\Users\hrisis\Documents\Лекции\4 Курс\8 семестър\ПРООС\Project\new\AlgorithmGames\Robot\obj\Debug\Robot.Properties.Resources.resources
+C:\Users\hrisis\Documents\Лекции\4 Курс\8 семестър\ПРООС\Project\new\AlgorithmGames\Robot\obj\Debug\Robot.RobotForm.resources
+C:\Users\hrisis\Documents\Лекции\4 Курс\8 семестър\ПРООС\Project\new\AlgorithmGames\Robot\obj\Debug\Robot.csproj.GenerateResource.Cache
+C:\Users\hrisis\Documents\Лекции\4 Курс\8 семестър\ПРООС\Project\new\AlgorithmGames\Robot\obj\Debug\Robot.exe
+C:\Users\hrisis\Documents\Лекции\4 Курс\8 семестър\ПРООС\Project\new\AlgorithmGames\Robot\obj\Debug\Robot.pdb
+E:\My Projects\C#\AlgorithmGames\Robot\bin\Debug\Robot.exe
+E:\My Projects\C#\AlgorithmGames\Robot\bin\Debug\Robot.pdb
+E:\My Projects\C#\AlgorithmGames\Robot\bin\Debug\CreateMapTool.exe
+E:\My Projects\C#\AlgorithmGames\Robot\bin\Debug\CreateMapTool.pdb
+E:\My Projects\C#\AlgorithmGames\Robot\obj\Debug\Robot.csprojResolveAssemblyReference.cache
+E:\My Projects\C#\AlgorithmGames\Robot\obj\Debug\Robot.PickMap.resources
+E:\My Projects\C#\AlgorithmGames\Robot\obj\Debug\Robot.Properties.Resources.resources
+E:\My Projects\C#\AlgorithmGames\Robot\obj\Debug\Robot.RobotForm.resources
+E:\My Projects\C#\AlgorithmGames\Robot\obj\Debug\Robot.csproj.GenerateResource.Cache
+E:\My Projects\C#\AlgorithmGames\Robot\obj\Debug\Robot.exe
+E:\My Projects\C#\AlgorithmGames\Robot\obj\Debug\Robot.pdb

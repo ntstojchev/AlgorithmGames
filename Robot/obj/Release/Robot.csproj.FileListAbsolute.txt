@@ -1,0 +1,11 @@
+E:\My Projects\C#\AlgorithmGames\Robot\bin\Release\Robot.exe
+E:\My Projects\C#\AlgorithmGames\Robot\bin\Release\Robot.pdb
+E:\My Projects\C#\AlgorithmGames\Robot\bin\Release\CreateMapTool.exe
+E:\My Projects\C#\AlgorithmGames\Robot\bin\Release\CreateMapTool.pdb
+E:\My Projects\C#\AlgorithmGames\Robot\obj\Release\Robot.csprojResolveAssemblyReference.cache
+E:\My Projects\C#\AlgorithmGames\Robot\obj\Release\Robot.PickMap.resources
+E:\My Projects\C#\AlgorithmGames\Robot\obj\Release\Robot.Properties.Resources.resources
+E:\My Projects\C#\AlgorithmGames\Robot\obj\Release\Robot.RobotForm.resources
+E:\My Projects\C#\AlgorithmGames\Robot\obj\Release\Robot.csproj.GenerateResource.Cache
+E:\My Projects\C#\AlgorithmGames\Robot\obj\Release\Robot.exe
+E:\My Projects\C#\AlgorithmGames\Robot\obj\Release\Robot.pdb

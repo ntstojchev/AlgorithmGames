@@ -1,0 +1,35 @@
+C:\Users\hrisis\Documents\Лекции\4 Курс\8 семестър\ПРООС\Project\new\AlgorithmGames\AlgorithmGames\bin\Debug\AlgorithmGames.exe.config
+C:\Users\hrisis\Documents\Лекции\4 Курс\8 семестър\ПРООС\Project\new\AlgorithmGames\AlgorithmGames\obj\Debug\AlgorithmGames.exe
+C:\Users\hrisis\Documents\Лекции\4 Курс\8 семестър\ПРООС\Project\new\AlgorithmGames\AlgorithmGames\obj\Debug\AlgorithmGames.pdb
+C:\Users\hrisis\Documents\Лекции\4 Курс\8 семестър\ПРООС\Project\new\AlgorithmGames\AlgorithmGames\bin\Debug\AlgorithmGames.exe
+C:\Users\hrisis\Documents\Лекции\4 Курс\8 семестър\ПРООС\Project\new\AlgorithmGames\AlgorithmGames\bin\Debug\AlgorithmGames.pdb
+C:\Users\hrisis\Documents\Лекции\4 Курс\8 семестър\ПРООС\Project\new\AlgorithmGames\AlgorithmGames\bin\Debug\CreateExperimentTool.exe
+C:\Users\hrisis\Documents\Лекции\4 Курс\8 семестър\ПРООС\Project\new\AlgorithmGames\AlgorithmGames\bin\Debug\CreateMapTool.exe
+C:\Users\hrisis\Documents\Лекции\4 Курс\8 семестър\ПРООС\Project\new\AlgorithmGames\AlgorithmGames\bin\Debug\Experiments.exe
+C:\Users\hrisis\Documents\Лекции\4 Курс\8 семестър\ПРООС\Project\new\AlgorithmGames\AlgorithmGames\bin\Debug\Robot.exe
+C:\Users\hrisis\Documents\Лекции\4 Курс\8 семестър\ПРООС\Project\new\AlgorithmGames\AlgorithmGames\bin\Debug\CreateExperimentTool.pdb
+C:\Users\hrisis\Documents\Лекции\4 Курс\8 семестър\ПРООС\Project\new\AlgorithmGames\AlgorithmGames\bin\Debug\CreateMapTool.pdb
+C:\Users\hrisis\Documents\Лекции\4 Курс\8 семестър\ПРООС\Project\new\AlgorithmGames\AlgorithmGames\bin\Debug\Experiments.pdb
+C:\Users\hrisis\Documents\Лекции\4 Курс\8 семестър\ПРООС\Project\new\AlgorithmGames\AlgorithmGames\bin\Debug\Robot.pdb
+C:\Users\hrisis\Documents\Лекции\4 Курс\8 семестър\ПРООС\Project\new\AlgorithmGames\AlgorithmGames\obj\Debug\AlgorithmGames.csprojResolveAssemblyReference.cache
+C:\Users\hrisis\Documents\Лекции\4 Курс\8 семестър\ПРООС\Project\new\AlgorithmGames\AlgorithmGames\obj\Debug\AlgorithmGames.MainForm.resources
+C:\Users\hrisis\Documents\Лекции\4 Курс\8 семестър\ПРООС\Project\new\AlgorithmGames\AlgorithmGames\obj\Debug\AlgorithmGames.Properties.Resources.resources
+C:\Users\hrisis\Documents\Лекции\4 Курс\8 семестър\ПРООС\Project\new\AlgorithmGames\AlgorithmGames\obj\Debug\AlgorithmGames.csproj.GenerateResource.Cache
+E:\My Projects\C#\AlgorithmGames\AlgorithmGames\bin\Debug\AlgorithmGames.exe.config
+E:\My Projects\C#\AlgorithmGames\AlgorithmGames\bin\Debug\AlgorithmGames.exe
+E:\My Projects\C#\AlgorithmGames\AlgorithmGames\bin\Debug\AlgorithmGames.pdb
+E:\My Projects\C#\AlgorithmGames\AlgorithmGames\bin\Debug\CreateExperimentTool.exe
+E:\My Projects\C#\AlgorithmGames\AlgorithmGames\bin\Debug\CreateMapTool.exe
+E:\My Projects\C#\AlgorithmGames\AlgorithmGames\bin\Debug\Experiments.exe
+E:\My Projects\C#\AlgorithmGames\AlgorithmGames\bin\Debug\Robot.exe
+E:\My Projects\C#\AlgorithmGames\AlgorithmGames\bin\Debug\CreateExperimentTool.pdb
+E:\My Projects\C#\AlgorithmGames\AlgorithmGames\bin\Debug\CreateMapTool.pdb
+E:\My Projects\C#\AlgorithmGames\AlgorithmGames\bin\Debug\Experiments.pdb
+E:\My Projects\C#\AlgorithmGames\AlgorithmGames\bin\Debug\Robot.pdb
+E:\My Projects\C#\AlgorithmGames\AlgorithmGames\obj\Debug\AlgorithmGames.csprojResolveAssemblyReference.cache
+E:\My Projects\C#\AlgorithmGames\AlgorithmGames\obj\Debug\AlgorithmGames.AboutBox.resources
+E:\My Projects\C#\AlgorithmGames\AlgorithmGames\obj\Debug\AlgorithmGames.MainForm.resources
+E:\My Projects\C#\AlgorithmGames\AlgorithmGames\obj\Debug\AlgorithmGames.Properties.Resources.resources
+E:\My Projects\C#\AlgorithmGames\AlgorithmGames\obj\Debug\AlgorithmGames.csproj.GenerateResource.Cache
+E:\My Projects\C#\AlgorithmGames\AlgorithmGames\obj\Debug\AlgorithmGames.exe
+E:\My Projects\C#\AlgorithmGames\AlgorithmGames\obj\Debug\AlgorithmGames.pdb

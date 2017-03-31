@@ -1,0 +1,38 @@
+<?xml version="1.0"?>
+<Map xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <MapSolution>
+    <string>Скок нагоре</string>
+    <string>Нагоре</string>
+    <string>Нагоре</string>
+    <string>Надясно</string>
+    <string>Надясно</string>
+    <string>Скок надясно</string>
+  </MapSolution>
+  <CellSize>50</CellSize>
+  <MapSize>500</MapSize>
+  <CellNumber>10</CellNumber>
+  <RobotStartingCell>
+    <Size>50</Size>
+    <Coordinates>
+      <X>150</X>
+      <Y>350</Y>
+    </Coordinates>
+    <Column>3</Column>
+    <Row>7</Row>
+    <IsStartPosition>true</IsStartPosition>
+    <IsCurrentPosition>false</IsCurrentPosition>
+    <Behavior>Path</Behavior>
+  </RobotStartingCell>
+  <EndGoal>
+    <Size>50</Size>
+    <Coordinates>
+      <X>350</X>
+      <Y>150</Y>
+    </Coordinates>
+    <Column>7</Column>
+    <Row>3</Row>
+    <IsStartPosition>false</IsStartPosition>
+    <IsCurrentPosition>false</IsCurrentPosition>
+    <Behavior>EndGoal</Behavior>
+  </EndGoal>
+</Map>
